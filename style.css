@@ -1,0 +1,68 @@
+div.menu {
+	background-color: black;
+	background-repeat: no-repeat;
+	font-size: 13px;
+	color: white;
+	margin-bottom: 10px; 
+	/*padding-top: 10px;*/
+}
+
+td {
+	padding: 12px;
+}
+
+a {
+	text-decoration: none;
+}
+
+
+a:link {
+	color: white;
+}
+
+a:visited {
+	color: white;
+}
+
+a:hover {
+	color: azure;
+}
+
+
+
+
+body{
+	background-color: #CEF6EC;
+}
+
+img.slider-img {
+	height:100%;
+	width: 100%;
+} 
+
+img.image {
+	float: left;
+	position: relative;
+	height:20%;
+	width: 20%;
+	padding: 15px;
+	/*z-index: 1;*/
+}
+
+p {
+	
+	column-count: 4;
+	text-align: justify;
+	column-gap: 15px;
+	column-rule: 2px double black;
+}
+
+
+footer {
+	color: white;
+	font-size: 12px;
+	background-color: black;
+	text-align: center;
+	padding-bottom: 3px;
+	
+}
